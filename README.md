@@ -38,6 +38,4 @@ Here are some ideas to get you started:
 
 ## 📈 Github Stat
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TinnaphoomK&theme=algolia)
-
 ![Non github stats](https://github-readme-stats.vercel.app/api?username=TinnaphoomK&show_icons=true&theme=algolia)
